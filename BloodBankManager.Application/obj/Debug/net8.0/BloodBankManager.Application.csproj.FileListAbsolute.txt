@@ -1,0 +1,17 @@
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\bin\Debug\net8.0\BloodBankManager.Application.deps.json
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\bin\Debug\net8.0\BloodBankManager.Application.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\bin\Debug\net8.0\BloodBankManager.Application.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\bin\Debug\net8.0\BloodBankManager.Core.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\bin\Debug\net8.0\BloodBankManager.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\bin\Debug\net8.0\BloodBankManager.Core.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\bin\Debug\net8.0\BloodBankManager.Infrastructure.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\BloodBankManager.Application.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\BloodBankManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\BloodBankManager.Application.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\BloodBankManager.Application.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\BloodBankManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\BloodBan.64D97B41.Up2Date
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\BloodBankManager.Application.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\refint\BloodBankManager.Application.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\BloodBankManager.Application.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Application\obj\Debug\net8.0\ref\BloodBankManager.Application.dll

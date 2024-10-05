@@ -1,0 +1,11 @@
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\bin\Debug\net8.0\BloodBankManager.Core.deps.json
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\bin\Debug\net8.0\BloodBankManager.Core.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\bin\Debug\net8.0\BloodBankManager.Core.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\obj\Debug\net8.0\BloodBankManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\obj\Debug\net8.0\BloodBankManager.Core.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\obj\Debug\net8.0\BloodBankManager.Core.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\obj\Debug\net8.0\BloodBankManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\obj\Debug\net8.0\BloodBankManager.Core.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\obj\Debug\net8.0\refint\BloodBankManager.Core.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\obj\Debug\net8.0\BloodBankManager.Core.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Core\obj\Debug\net8.0\ref\BloodBankManager.Core.dll

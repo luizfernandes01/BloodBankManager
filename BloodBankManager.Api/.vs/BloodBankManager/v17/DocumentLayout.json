@@ -1,0 +1,674 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|solutionrelative:controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\services\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF26DDE4-4063-4DD8-BDF4-2874D7B0E63C}|..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.infrastructure\\repositories\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF26DDE4-4063-4DD8-BDF4-2874D7B0E63C}|..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.infrastructure\\repositories\\donationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF26DDE4-4063-4DD8-BDF4-2874D7B0E63C}|..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.infrastructure\\repositories\\bloodstoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF26DDE4-4063-4DD8-BDF4-2874D7B0E63C}|..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.infrastructure\\configurations\\bloodstorageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\donorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\updatedonorinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager\\controllers\\bloodstoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|solutionrelative:controllers\\bloodstoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|solutionrelative:controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\createdonorinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\createdonationinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF26DDE4-4063-4DD8-BDF4-2874D7B0E63C}|..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.infrastructure\\persistence\\bloodbankmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\alldonorsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\bloodstorageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\donationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\donationviewmodelrelatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\donoranddonationsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\commands\\activatedonor\\activatedonorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\commands\\activatedonor\\activatedonorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\bloodbankmanager.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\services\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\services\\ibloodstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\repositories\\idonorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\repositories\\idonationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\repositories\\ibloodstoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\entities\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\entities\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\entities\\bloodstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF26DDE4-4063-4DD8-BDF4-2874D7B0E63C}|..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.infrastructure\\configurations\\donorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF26DDE4-4063-4DD8-BDF4-2874D7B0E63C}|..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.infrastructure\\configurations\\donationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF26DDE4-4063-4DD8-BDF4-2874D7B0E63C}|..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.infrastructure\\bloodbankmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\models\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C20865F-ACFB-46FB-A459-FFD4C4A6FAB4}|..\\BloodBankManager.Application\\BloodBankManager.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.application\\services\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager\\bloodbankmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|solutionrelative:bloodbankmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\enums\\tiposanguineo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\enums\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F753E18-6DF2-4D8C-BB21-FE56EC83502A}|..\\BloodBankManager.Core\\BloodBankManager.Core.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager.core\\enums\\fatorrh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|c:\\users\\luiz henrique\\source\\repos\\bloodbankmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04DBD494-E693-419B-B4AB-2D699CCBAE2D}|BloodBankManager.APi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BloodStorageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Configurations\\BloodStorageConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Infrastructure\\Configurations\\BloodStorageConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Configurations\\BloodStorageConfiguration.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Infrastructure\\Configurations\\BloodStorageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:19:33.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BloodStorageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Repositories\\BloodStorageRepository.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Infrastructure\\Repositories\\BloodStorageRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Repositories\\BloodStorageRepository.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Infrastructure\\Repositories\\BloodStorageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:43:29.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Repositories\\DonationRepository.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Infrastructure\\Repositories\\DonationRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Repositories\\DonationRepository.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Infrastructure\\Repositories\\DonationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:43:04.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Repositories\\DonorRepository.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Infrastructure\\Repositories\\DonorRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Repositories\\DonorRepository.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Infrastructure\\Repositories\\DonorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:42:39.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonorService.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Services\\DonorService.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Services\\DonorService.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Services\\DonorService.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Services\\DonorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:00:57.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Controllers\\DonorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonorsController.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Controllers\\DonorsController.cs",
+              "RelativeToolTip": "Controllers\\DonorsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:56:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\DonorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\DonorViewModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\DonorViewModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\DonorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:56:31.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BloodStorageController.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Controllers\\BloodStorageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BloodStorageController.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Controllers\\BloodStorageController.cs",
+              "RelativeToolTip": "Controllers\\BloodStorageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:12:56.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Controllers\\DonationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonationsController.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Controllers\\DonationsController.cs",
+              "RelativeToolTip": "Controllers\\DonationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:09:26.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T14:42:00.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateDonorInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\UpdateDonorInputModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\UpdateDonorInputModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\UpdateDonorInputModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\UpdateDonorInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:32:32.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateDonorInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\CreateDonorInputModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\CreateDonorInputModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\CreateDonorInputModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\CreateDonorInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:32:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateDonationInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\CreateDonationInputModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\CreateDonationInputModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\CreateDonationInputModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\CreateDonationInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:32:24.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:42:38.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AllDonorsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\AllDonorsViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\AllDonorsViewModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\AllDonorsViewModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\AllDonorsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:32:16.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BloodStorageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\BloodStorageViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\BloodStorageViewModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\BloodStorageViewModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\BloodStorageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:32:20.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BloodBankManagerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Persistence\\BloodBankManagerDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Infrastructure\\Persistence\\BloodBankManagerDbContext.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Persistence\\BloodBankManagerDbContext.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Infrastructure\\Persistence\\BloodBankManagerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:28:51.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\DonationViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\DonationViewModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\DonationViewModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\DonationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:57:48.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DonorAndDonationsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\DonorAndDonationsViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\DonorAndDonationsViewModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\DonorAndDonationsViewModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\DonorAndDonationsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:57:02.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DonationViewModelRelatory.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\DonationViewModelRelatory.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\DonationViewModelRelatory.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\DonationViewModelRelatory.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\DonationViewModelRelatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:32:30.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ActivateDonorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Commands\\ActivateDonor\\ActivateDonorCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Commands\\ActivateDonor\\ActivateDonorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Commands\\ActivateDonor\\ActivateDonorCommandHandler.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Commands\\ActivateDonor\\ActivateDonorCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:46:48.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActivateDonorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Commands\\ActivateDonor\\ActivateDonorCommand.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Commands\\ActivateDonor\\ActivateDonorCommand.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Commands\\ActivateDonor\\ActivateDonorCommand.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Commands\\ActivateDonor\\ActivateDonorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:44:51.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BloodBankManager.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\BloodBankManager.Application.csproj",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\BloodBankManager.Application.csproj",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\BloodBankManager.Application.csproj",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\BloodBankManager.Application.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T13:16:06.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDonorService.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Services\\IDonorService.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Services\\IDonorService.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Services\\IDonorService.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Services\\IDonorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:12:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBloodStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Services\\IBloodStorageService.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Services\\IBloodStorageService.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Services\\IBloodStorageService.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Services\\IBloodStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:55:51.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDonorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Repositories\\IDonorRepository.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Repositories\\IDonorRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Repositories\\IDonorRepository.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Repositories\\IDonorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:50:03.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDonationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Repositories\\IDonationRepository.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Repositories\\IDonationRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Repositories\\IDonationRepository.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Repositories\\IDonationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:49:39.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBloodStorageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Repositories\\IBloodStorageRepository.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Repositories\\IBloodStorageRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Repositories\\IBloodStorageRepository.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Repositories\\IBloodStorageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:48:51.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\Endereco.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Entities\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\Endereco.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Entities\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:24:37.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:23:49.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BloodStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\BloodStorage.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Entities\\BloodStorage.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\BloodStorage.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Entities\\BloodStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:23:58.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\Donation.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Entities\\Donation.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\Donation.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Entities\\Donation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:24:06.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\Donor.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Entities\\Donor.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Entities\\Donor.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Entities\\Donor.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:24:31.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DonorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Configurations\\DonorConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Infrastructure\\Configurations\\DonorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Configurations\\DonorConfiguration.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Infrastructure\\Configurations\\DonorConfiguration.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:19:04.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DonationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Configurations\\DonationConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Infrastructure\\Configurations\\DonationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\Configurations\\DonationConfiguration.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Infrastructure\\Configurations\\DonationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:18:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Models\\ResultViewModel.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Models\\ResultViewModel.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Models\\ResultViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:37:16.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BloodBankManager.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj",
+              "RelativeToolTip": "..\\BloodBankManager.Infrastructure\\BloodBankManager.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T20:27:12.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IDonorService.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Services\\IDonorService.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Application\\Services\\IDonorService.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Application\\Services\\IDonorService.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Application\\Services\\IDonorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:00:41.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BloodBankManager.APi.csproj",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\BloodBankManager.APi.csproj",
+              "RelativeDocumentMoniker": "BloodBankManager.APi.csproj",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\BloodBankManager.APi.csproj",
+              "RelativeToolTip": "BloodBankManager.APi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T18:24:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TipoSanguineo.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Enums\\TipoSanguineo.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Enums\\TipoSanguineo.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Enums\\TipoSanguineo.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Enums\\TipoSanguineo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:24:46.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Enums\\Genero.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Enums\\Genero.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Enums\\Genero.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Enums\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:24:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FatorRh.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Enums\\FatorRh.cs",
+              "RelativeDocumentMoniker": "..\\BloodBankManager.Core\\Enums\\FatorRh.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager.Core\\Enums\\FatorRh.cs",
+              "RelativeToolTip": "..\\BloodBankManager.Core\\Enums\\FatorRh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:24:41.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\BloodBankManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T13:25:40.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

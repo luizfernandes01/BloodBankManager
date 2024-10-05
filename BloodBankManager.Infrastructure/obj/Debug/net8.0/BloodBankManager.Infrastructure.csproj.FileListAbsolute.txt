@@ -1,0 +1,17 @@
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\bin\Debug\net8.0\BloodBankManager.Infrastructure.deps.json
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\bin\Debug\net8.0\BloodBankManager.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\bin\Debug\net8.0\BloodBankManager.Infrastructure.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\bin\Debug\net8.0\BloodBankManager.Core.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\bin\Debug\net8.0\BloodBankManager.Core.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBankManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBankManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBankManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBankManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBankManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBan.1CE438EF.Up2Date
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBankManager.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\refint\BloodBankManager.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBankManager.Infrastructure.pdb
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\ref\BloodBankManager.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\bin\Debug\net8.0\BloodBankManager.Infrastructure.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\BloodBankManager.Infrastructure\obj\Debug\net8.0\BloodBankManager.Infrastructure.genruntimeconfig.cache
